@@ -1,11 +1,14 @@
-# [Título del trabajo]
+# CÁMARA MÓVIL
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+El proyecto surge con la ambición de conseguir elevar las posibilidades de grabación de una cámara convencional mediante la implementación de un deslizador que consiga que la cámara sea independiente en sus movimientos al usuario que quiere grabar, logrando así dotar de mayor rango y precisión las grabaciones.
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Almudena Murillo Martín-Asín
+Pablo Antonio Rosario Rúas
 
 ## Objetivos del trabajo
 
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
+El objetivo principal del trabajo es implementar una serie sensores y de motores paso a paso con Arduino para conseguir un deslizador que funcione de manera independiente. 
+-Realizar un soporte casero para la cámara y los motores.
+-Conseguir implementar los sensores ultrasonidos para que consigan detectar a un móvil y que este sea monitorizado por el deslizador.
