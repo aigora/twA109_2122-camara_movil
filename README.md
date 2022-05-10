@@ -9,6 +9,6 @@ Pablo Antonio Rosario Rúas
 
 ## Objetivos del trabajo
 
-El objetivo principal del trabajo es implementar una serie sensores y de motores paso a paso con Arduino para conseguir un deslizador que funcione de manera independiente. 
+El objetivo principal del trabajo es implementar una serie sensores y de motores paso a paso con Arduino para conseguir un deslizador que funcione de manera independiente.
 -Realizar un soporte casero para la cámara y los motores.
 -Conseguir implementar los sensores ultrasonidos para que consigan detectar a un móvil y que este sea monitorizado por el deslizador.
