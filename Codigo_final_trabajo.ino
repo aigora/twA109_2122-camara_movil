@@ -4,7 +4,7 @@
 
 
 //Declaración de los pines del sensor ultrasónico.
-const int echo_izquierda=10; /*DONDE LO CONECTAMOS*/
+const int echo_izquierda=10; //DONDE LO CONECTAMOS
 const int echo_derecha=12; 
 const int trig_izquierda=11; 
 const int trig_derecha=13; 
@@ -69,7 +69,7 @@ void loop()
     //Imprime la distancia a la izquierda.
     Serial.print("Izquierda: "); 
     Serial.print(distancia_izquierda);
-    Serial.println("cm"); //¿POR QUÉ AQUÍ PONE LN? 
+    Serial.println("cm"); 
     //Imprime la distancia a la derecha.
     Serial.print("Derecha: ");
     Serial.print(distancia_derecha);
